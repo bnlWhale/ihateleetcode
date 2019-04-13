@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67cde578-e92e-4f03-bb63-d0cd25bad5b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EmailVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FastSlowPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GoRemerber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcocd_22_Generate_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_104_Max_Depth_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_108_Convert_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_118_Pascal_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_125_Valid_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_131_Palindrome_Partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_13_Roman_to_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_14_Longest_prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_152_MaxProductSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_155_Min_stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_15_3_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_171_Excel_Sheet_Column_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_189_Rotate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_198_House_Robber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_1_two_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_204_count_prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_206_Reverse_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_213_House_Robber_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_21_Merge_Two_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_26_Remove_Duplicate_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_283_Move_hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_322_Coin_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_326_Power_of_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_33_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_344_Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_349_Intersection_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_350_Intersection_of_Two_Arrays_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_36_Valid_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_374_Guess_Number_Higher_or_Lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_384_shuffle_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_39_combination_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_3_Longest_Substring_WithoutRepeating_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_441_Arranging_Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_442_Find_All_Duplicates_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_448_Find_Numbers_Disappeared_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_457_Circular_Array_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_46_permutation_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_47_permutation_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_48_rotate_image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_49_Gropu_anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_51_N_Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_525_Contiguous_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_53_Maximum_subArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_552_K_diff_Pairs_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_557_Reverse_Words_in_String_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_561_Array_Partition_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_565_Array_Nesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_605_Can_Place_Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_60_permutation_sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_628_maximum_product_of_three_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_62_unique_path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_645.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_653_Two_Sum_Input_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_665_Non_decreasing_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_667_Robot_Return_Origin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_669_Degree_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_70_Climbing_stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_728.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_733_Flodd_Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_73_Set_Matrix_Zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_77_Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_783_Minimum_Distance_Between_BST_Nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_79_word_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_7_reverse_integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_80_Remove_Duplicates_Sorted_Array_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_824_Goat_Latin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_832_Flipping_an_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_852_Peak_Index_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_859_Buddy_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_905_Sort_Array_By_Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_907_Sum_Subarray_Minimums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_917_Reverse_Only_Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_941_Valid_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_945_Minimum_Increment_Make_Array_Unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_997_Squares_of_a_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_9_Palindrome_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptinalLambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProducerConsumerWaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/EmailVerify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FastSlowPointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GoRemerber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcocd_22_Generate_Parentheses$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcocd_22_Generate_Parentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_104_Max_Depth_Binary_Tree$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_104_Max_Depth_Binary_Tree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_104_Max_Depth_Binary_Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_118_Pascal_Triangle$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_118_Pascal_Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_125_Valid_Palindrome$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_125_Valid_Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_131_Palindrome_Partitioning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_13_Roman_to_Integer$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_13_Roman_to_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_14_Longest_prefix$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_14_Longest_prefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_152_MaxProductSubArray$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_152_MaxProductSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155$MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155$MinStackLink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155_Min_stack$MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_155_Min_stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_15_3_sum$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_15_3_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_167_Two_Sum_II_Input_array_is_sorted$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_167_Two_Sum_II_Input_array_is_sorted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_171_Excel_Sheet_Column_Number$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_171_Excel_Sheet_Column_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_189_Rotate_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_189_Rotate_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_198_House_Robber$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_198_House_Robber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_204_count_prime$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_204_count_prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_206_Reverse_Linked_List$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_206_Reverse_Linked_List$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_206_Reverse_Linked_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_213_House_Robber_2$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_213_House_Robber_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_21_Merge_Two_Sorted_Lists$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_21_Merge_Two_Sorted_Lists$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_21_Merge_Two_Sorted_Lists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_242.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_26_Remove_Duplicate_Sorted_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_26_Remove_Duplicate_Sorted_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_283_Move_hero$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_283_Move_hero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_316.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_322_Coin_Change$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_322_Coin_Change.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_326_Power_of_Three$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_326_Power_of_Three.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_33_Search_in_Rotated_Sorted_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_33_Search_in_Rotated_Sorted_Array$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_33_Search_in_Rotated_Sorted_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_344_Reverse_String$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_344_Reverse_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_349_Intersection_Two_Arrays$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_349_Intersection_Two_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_36_Valid_Sudoku.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_374_Guess_Number_Higher_or_Lower$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_374_Guess_Number_Higher_or_Lower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_384_shuffle_an_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_384_shuffle_an_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_39_combination_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_3_Longest_Substring_WithoutRepeating_Characters$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_3_Longest_Substring_WithoutRepeating_Characters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_40.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_441_Arranging_Coins$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_441_Arranging_Coins$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_441_Arranging_Coins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_442_Find_All_Duplicates_in_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_442_Find_All_Duplicates_in_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_448_Find_Numbers_Disappeared_in_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_448_Find_Numbers_Disappeared_in_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_457_Circular_Array_Loop$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_457_Circular_Array_Loop$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_457_Circular_Array_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_459_Repeated_Substring_Pattern$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_459_Repeated_Substring_Pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_46_permutation_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_47_permutation_2$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_47_permutation_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_48_rotate_image$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_48_rotate_image.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_49_Gropu_anagrams$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_49_Gropu_anagrams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_51_N_Queens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_525_Contiguous_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_525_Contiguous_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_53_Maximum_subArray$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_53_Maximum_subArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_552_K_diff_Pairs_in_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_552_K_diff_Pairs_in_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_557_Reverse_Words_in_String_III$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_557_Reverse_Words_in_String_III.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_561_Array_Partition_I$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_561_Array_Partition_I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_565_Array_Nesting$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_565_Array_Nesting$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_565_Array_Nesting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_581_Shortest_Unsorted_Continuous_Subarray$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_605_Can_Place_Flowers$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_605_Can_Place_Flowers$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_605_Can_Place_Flowers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_60_permutation_sequence$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_60_permutation_sequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_628_maximum_product_of_three_numbers$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_628_maximum_product_of_three_numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_62_unique_path$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_62_unique_path.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_645.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_653_Two_Sum_Input_BST$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_653_Two_Sum_Input_BST$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_653_Two_Sum_Input_BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_665_Non_decreasing_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_665_Non_decreasing_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_667_Robot_Return_Origin$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_667_Robot_Return_Origin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_669_Degree_of_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_669_Degree_of_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_69.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_70_Climbing_stairs$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_70_Climbing_stairs$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_70_Climbing_stairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_728.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill$Solution_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_73_Set_Matrix_Zeroes$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_73_Set_Matrix_Zeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_77_Combinations$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_77_Combinations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_783_Minimum_Distance_Between_BST_Nodes$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_783_Minimum_Distance_Between_BST_Nodes$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_783_Minimum_Distance_Between_BST_Nodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_79_word_search$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_79_word_search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_7_reverse_integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_80_Remove_Duplicates_Sorted_Array_II$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_80_Remove_Duplicates_Sorted_Array_II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_824_Goat_Latin$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_824_Goat_Latin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_832_Flipping_an_Image$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_832_Flipping_an_Image.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_852_Peak_Index_Mountain_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_852_Peak_Index_Mountain_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_859_Buddy_Strings$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_859_Buddy_Strings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_88.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_90.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_905_Sort_Array_By_Parity$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_905_Sort_Array_By_Parity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_907_Sum_Subarray_Minimums$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_907_Sum_Subarray_Minimums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_921.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_941_Valid_Mountain_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_941_Valid_Mountain_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_945_Minimum_Increment_Make_Array_Unique$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_945_Minimum_Increment_Make_Array_Unique$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_945_Minimum_Increment_Make_Array_Unique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_978.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_997_Squares_of_a_Sorted_Array$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_997_Squares_of_a_Sorted_Array$Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_997_Squares_of_a_Sorted_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_9_Palindrome_number$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Leetcode_9_Palindrome_number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/algoleetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OptinalLambdaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify$Q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify$QQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SecondLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SortStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SortStack$Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SortStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/StreamPractice$1Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/StreamPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest$Friend$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest$Friend$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest$Friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest$OneThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest$TwoThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/META-INF/algoleetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/test-classes/META-INF/algoleetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/algoleetcode.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algoleetcode$Leetcode_733_Flodd_Fill.ic" NAME="Leetcode_733_Flodd_Fill Coverage Results" MODIFIED="1549778078825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_917_Reverse_Only_Letters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LinkedList</find>
+      <find>Solution</find>
+      <find>counter</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_733_Flodd_Fill.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_728.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GoRemerber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_21_Merge_Two_Sorted_Lists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_155_Min_stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_283_Move_hero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_15_3_sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_665_Non_decreasing_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_997_Squares_of_a_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leedcode_852_Peak_Index_Mountain_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_441_Arranging_Coins.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_941_Valid_Mountain_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_905_Sort_Array_By_Parity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_448_Find_Numbers_Disappeared_in_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_669_Degree_of_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_552_K_diff_Pairs_in_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_1_two_sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_653_Two_Sum_Input_BST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_374_Guess_Number_Higher_or_Lower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_783_Minimum_Distance_Between_BST_Nodes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_104_Max_Depth_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_108_Convert_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_442_Find_All_Duplicates_in_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FastSlowPointer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_457_Circular_Array_Loop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Leetcode_33_Search_in_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/Leetcode_33_Search_in_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_33_Search_in_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_832_Flipping_an_Image.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_945_Minimum_Increment_Make_Array_Unique.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_131_Palindrome_Partitioning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_907_Sum_Subarray_Minimums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_70_Climbing_stairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_525_Contiguous_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StreamPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_561_Array_Partition_I.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_565_Array_Nesting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_384_shuffle_an_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_80_Remove_Duplicates_Sorted_Array_II.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_26_Remove_Duplicate_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_125_Valid_Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_859_Buddy_Strings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_667_Robot_Return_Origin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_Reverse_Words_in_String_III.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_557_Reverse_Words_in_String_III.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_824_Goat_Latin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_917_Reverse_Only_Letters.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="26" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algoleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoleetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoleetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555118472881" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="src.main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Leetcode_917_Reverse_Only_Letters">
+    <configuration name="Leetcode_557_Reverse_Words_in_String_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_557_Reverse_Words_in_String_III" />
+      <module name="algoleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_667_Robot_Return_Origin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_667_Robot_Return_Origin" />
+      <module name="algoleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_824_Goat_Latin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_824_Goat_Latin" />
+      <module name="algoleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_859_Buddy_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_859_Buddy_Strings" />
+      <module name="algoleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_917_Reverse_Only_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_917_Reverse_Only_Letters" />
+      <module name="algoleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leetcode_917_Reverse_Only_Letters" />
+        <item itemvalue="Application.Leetcode_824_Goat_Latin" />
+        <item itemvalue="Application.Leetcode_557_Reverse_Words_in_String_III" />
+        <item itemvalue="Application.Leetcode_667_Robot_Return_Origin" />
+        <item itemvalue="Application.Leetcode_859_Buddy_Strings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67cde578-e92e-4f03-bb63-d0cd25bad5b6" name="Default Changelist" comment="" />
+      <created>1546639580199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546639580199</updated>
+      <workItem from="1546639584330" duration="3113000" />
+      <workItem from="1546820969137" duration="58247000" />
+      <workItem from="1548393007409" duration="7767000" />
+      <workItem from="1548548566635" duration="60000" />
+      <workItem from="1548789796898" duration="4322000" />
+      <workItem from="1548815495802" duration="7782000" />
+      <workItem from="1548874942316" duration="4672000" />
+      <workItem from="1548959333314" duration="6446000" />
+      <workItem from="1549061072670" duration="1134000" />
+      <workItem from="1549305953873" duration="12655000" />
+      <workItem from="1549484793025" duration="16000" />
+      <workItem from="1549484838584" duration="43961000" />
+      <workItem from="1549831738940" duration="9925000" />
+      <workItem from="1549928102895" duration="8707000" />
+      <workItem from="1550001797261" duration="262000" />
+      <workItem from="1550023063272" duration="14501000" />
+      <workItem from="1550090852274" duration="14500000" />
+      <workItem from="1550622098978" duration="1981000" />
+      <workItem from="1550648826678" duration="1851000" />
+      <workItem from="1550696127830" duration="3667000" />
+      <workItem from="1550737193924" duration="2162000" />
+      <workItem from="1550869936098" duration="6392000" />
+      <workItem from="1551051278130" duration="56399000" />
+      <workItem from="1551553850991" duration="12208000" />
+      <workItem from="1551812461147" duration="6040000" />
+      <workItem from="1551840146998" duration="1480000" />
+      <workItem from="1552091575010" duration="9389000" />
+      <workItem from="1552204771623" duration="29926000" />
+      <workItem from="1552974488555" duration="3000" />
+      <workItem from="1553032198629" duration="14429000" />
+      <workItem from="1553720488085" duration="2423000" />
+      <workItem from="1553804790683" duration="28403000" />
+      <workItem from="1554258391572" duration="3663000" />
+      <workItem from="1554331476853" duration="6630000" />
+      <workItem from="1554611679465" duration="8000" />
+      <workItem from="1554611696715" duration="84432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="469556000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25928918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" weight="0.27445257" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5016155" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3294714" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode_349_Intersection_Two_Arrays.java</url>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_783_Minimum_Distance_Between_BST_Nodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_152_MaxProductSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_108_Convert_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="52" column="51" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#1299#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_155_Min_stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_118_Pascal_Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_104_Max_Depth_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_155.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_206_Reverse_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_322_Coin_Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_326_Power_of_Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_344_Reverse_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_605_Can_Place_Flowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FastSlowPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_832_Flipping_an_Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_945_Minimum_Increment_Make_Array_Unique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_131_Palindrome_Partitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#1522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_70_Climbing_stairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcocd_22_Generate_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GoRemerber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OptinalLambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_561_Array_Partition_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StreamPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_565_Array_Nesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_384_shuffle_an_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_442_Find_All_Duplicates_in_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_628_maximum_product_of_three_numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_669_Degree_of_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_997_Squares_of_a_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_457_Circular_Array_Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="89" column="43" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_525_Contiguous_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1685#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_350_Intersection_of_Two_Arrays_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_349_Intersection_Two_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_448_Find_Numbers_Disappeared_in_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_552_K_diff_Pairs_in_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_905_Sort_Array_By_Parity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_907_Sum_Subarray_Minimums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_80_Remove_Duplicates_Sorted_Array_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="6307" column="23" selection-start-line="6307" selection-start-column="23" selection-end-line="6307" selection-end-column="23" />
+          <folding>
+            <element signature="e#225086#225087#0" expanded="true" />
+            <element signature="e#225135#225136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_26_Remove_Duplicate_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_33_Search_in_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_859_Buddy_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_125_Valid_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_667_Robot_Return_Origin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="62" column="25" lean-forward="true" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_557_Reverse_Words_in_String_III.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_824_Goat_Latin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_917_Reverse_Only_Letters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algoleetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.jetbrains:annotations-java5:16.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
