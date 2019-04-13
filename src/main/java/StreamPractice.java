@@ -69,6 +69,17 @@ public class StreamPractice {
 
 
         list.stream().sorted((p1,p2)->p1.getAge()-p2.getAge()).forEach(System.out::println);
+
+
+        String paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
+        String[] pArr = paragraph.split(" ");
+        Map<String, Integer> map = new HashMap<>();
+        for(int i=0;i<pArr.length;i++){
+            String temp = pArr[i].toLowerCase();
+            map.put(temp, map.getOrDefault(temp, 0)+1);
+        }
+
+        String max= map.entrySet().stream().max(Map.Entry.comparingByValue()).get().getKey();
     }
 
 
