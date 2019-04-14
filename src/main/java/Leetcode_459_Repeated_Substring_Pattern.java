@@ -49,7 +49,8 @@ public class Leetcode_459_Repeated_Substring_Pattern {
 
     public static void main(String[] args){
 
-        String s = "abab";
+       // String s = "abab";
+        String s = "abcabcabc";
         new Solution().repeatedSubstringPattern(s);
 
     }

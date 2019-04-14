@@ -69,6 +69,8 @@ public class Leetcode_68_Text_Justification {
     class Solution {
         public List<String> fullJustify(String[] words, int maxWidth) {
 
+            String str = "";
+
 
             return null;
         }

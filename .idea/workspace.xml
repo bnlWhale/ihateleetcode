@@ -2,275 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67cde578-e92e-4f03-bb63-d0cd25bad5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BFS_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_520_Detect_Capital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_788_Rotated_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_819_Most_Common_Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_Construct_String_from_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_415_Add_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_443_String_Compression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_552_Student_atendance_Record_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcocd_22_Generate_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcocd_22_Generate_Parentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_104_Max_Depth_Binary_Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_104_Max_Depth_Binary_Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_108_Convert_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_118_Pascal_Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_118_Pascal_Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_125_Valid_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_125_Valid_Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_13_Roman_to_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_13_Roman_to_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_14_Longest_prefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_14_Longest_prefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_152_MaxProductSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_152_MaxProductSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_155.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_155.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_155_Min_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_155_Min_stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_15_3_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_15_3_sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_167_Two_Sum_II_Input_array_is_sorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_167_Two_Sum_II_Input_array_is_sorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_171_Excel_Sheet_Column_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_171_Excel_Sheet_Column_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_189_Rotate_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_189_Rotate_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_198_House_Robber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_198_House_Robber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_1_two_sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_204_count_prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_204_count_prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_206_Reverse_Linked_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_206_Reverse_Linked_List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_213_House_Robber_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_213_House_Robber_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_21_Merge_Two_Sorted_Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_21_Merge_Two_Sorted_Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_26_Remove_Duplicate_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_26_Remove_Duplicate_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_283_Move_hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_283_Move_hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_322_Coin_Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_322_Coin_Change.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_326_Power_of_Three.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_326_Power_of_Three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_33_Search_in_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_33_Search_in_Rotated_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_344_Reverse_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_344_Reverse_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_349_Intersection_Two_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_349_Intersection_Two_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_350_Intersection_of_Two_Arrays_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_374_Guess_Number_Higher_or_Lower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_374_Guess_Number_Higher_or_Lower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_384_shuffle_an_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_384_shuffle_an_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_3_Longest_Substring_WithoutRepeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_3_Longest_Substring_WithoutRepeating_Characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_441_Arranging_Coins.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_441_Arranging_Coins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_442_Find_All_Duplicates_in_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_442_Find_All_Duplicates_in_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_448_Find_Numbers_Disappeared_in_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_448_Find_Numbers_Disappeared_in_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_457_Circular_Array_Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_457_Circular_Array_Loop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BFS_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BFS_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_459_Repeated_Substring_Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_459_Repeated_Substring_Pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_47_permutation_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_47_permutation_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_48_rotate_image.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_48_rotate_image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_49_Gropu_anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_49_Gropu_anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_525_Contiguous_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_525_Contiguous_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_53_Maximum_subArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_53_Maximum_subArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_552_K_diff_Pairs_in_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_552_K_diff_Pairs_in_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_557_Reverse_Words_in_String_III.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_557_Reverse_Words_in_String_III.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_561_Array_Partition_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_561_Array_Partition_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_565_Array_Nesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_565_Array_Nesting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_605_Can_Place_Flowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_605_Can_Place_Flowers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_60_permutation_sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_60_permutation_sequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_628_maximum_product_of_three_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_628_maximum_product_of_three_numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_62_unique_path.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_62_unique_path.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_653_Two_Sum_Input_BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_653_Two_Sum_Input_BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_665_Non_decreasing_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_665_Non_decreasing_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_667_Robot_Return_Origin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_667_Robot_Return_Origin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_669_Degree_of_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_669_Degree_of_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_70_Climbing_stairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_70_Climbing_stairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_733_Flodd_Fill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_73_Set_Matrix_Zeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_73_Set_Matrix_Zeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_77_Combinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_77_Combinations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_783_Minimum_Distance_Between_BST_Nodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_783_Minimum_Distance_Between_BST_Nodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_79_word_search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_79_word_search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_80_Remove_Duplicates_Sorted_Array_II.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_80_Remove_Duplicates_Sorted_Array_II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_824_Goat_Latin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_824_Goat_Latin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_832_Flipping_an_Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_832_Flipping_an_Image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_852_Peak_Index_Mountain_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_852_Peak_Index_Mountain_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_859_Buddy_Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_859_Buddy_Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_905_Sort_Array_By_Parity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_905_Sort_Array_By_Parity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_907_Sum_Subarray_Minimums.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_907_Sum_Subarray_Minimums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_917_Reverse_Only_Letters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_941_Valid_Mountain_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_941_Valid_Mountain_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_945_Minimum_Increment_Make_Array_Unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_945_Minimum_Increment_Make_Array_Unique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_997_Squares_of_a_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_997_Squares_of_a_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode_9_Palindrome_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode_9_Palindrome_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/algoleetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProducerConsumerWaitNotify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SortStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SortStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StreamPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StreamPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTest$Friend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTest$Friend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/META-INF/algoleetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/algoleetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/test-classes/META-INF/algoleetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/algoleetcode.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -289,40 +29,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_88.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BFS_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_Construct_String_from_Binary_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="-90">
+              <caret line="108" column="38" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="38" />
               <folding>
-                <element signature="e#0#72#0" expanded="true" />
+                <element signature="e#0#2075#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BFS_Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="391">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_443_String_Compression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="435">
+              <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -353,10 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_15_3_sum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_665_Non_decreasing_Array.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_997_Squares_of_a_Sorted_Array.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leedcode_852_Peak_Index_Mountain_Array.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_441_Arranging_Coins.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_941_Valid_Mountain_Array.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_905_Sort_Array_By_Parity.java" />
@@ -400,16 +139,20 @@
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_819_Most_Common_Word.java" />
         <option value="$PROJECT_DIR$/src/main/java/StreamPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_520_Detect_Capital.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_Construct_String_from_Binary_Tree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BFS_Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BFS_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_552_Student_atendance_Record_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_415_Add_String.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_443_String_Compression.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="466" />
-    <option name="y" value="84" />
+    <option name="x" value="336" />
+    <option name="y" value="69" />
     <option name="width" value="2224" />
     <option name="height" value="1275" />
   </component>
@@ -486,9 +229,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BFS_Tree">
+  <component name="RunManager" selected="Application.Leetcode_415_Add_String">
     <configuration name="BFS_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS_Tree" />
+      <module name="ihateleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_415_Add_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_415_Add_String" />
+      <module name="ihateleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_459_Repeated_Substring_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_459_Repeated_Substring_Pattern" />
       <module name="ihateleetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -501,34 +258,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_788_Rotated_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_788_Rotated_Digits" />
-      <module name="algoleetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode_819_Most_Common_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_819_Most_Common_Word" />
+    <configuration name="Leetcode_66_Construct_String_from_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_66_Construct_String_from_Binary_Tree" />
       <module name="ihateleetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode_917_Reverse_Only_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_917_Reverse_Only_Letters" />
-      <module name="algoleetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode_415_Add_String" />
+        <item itemvalue="Application.Leetcode_459_Repeated_Substring_Pattern" />
         <item itemvalue="Application.BFS_Tree" />
+        <item itemvalue="Application.Leetcode_66_Construct_String_from_Binary_Tree" />
         <item itemvalue="Application.Leetcode_520_Detect_Capital" />
-        <item itemvalue="Application.Leetcode_819_Most_Common_Word" />
-        <item itemvalue="Application.Leetcode_788_Rotated_Digits" />
-        <item itemvalue="Application.Leetcode_917_Reverse_Only_Letters" />
       </list>
     </recent_temporary>
   </component>
@@ -580,12 +323,12 @@
       <workItem from="1554611696715" duration="84432000" />
       <workItem from="1555119848925" duration="4022000" />
       <workItem from="1555141386821" duration="6696000" />
-      <workItem from="1555182217112" duration="5018000" />
+      <workItem from="1555182217112" duration="29065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485292000" />
+    <option name="totallyTimeSpent" value="509339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,7 +340,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="466" y="84" width="2224" height="1275" extended-state="0" />
+    <frame x="336" y="69" width="2224" height="1275" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19019249" />
@@ -609,8 +352,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" visible="true" weight="0.27387998" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39983094" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" weight="0.27387998" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39983094" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
@@ -647,10 +390,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_605_Can_Place_Flowers.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/FastSlowPointer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_832_Flipping_an_Image.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_945_Minimum_Increment_Make_Array_Unique.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_131_Palindrome_Partitioning.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_70_Climbing_stairs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcocd_22_Generate_Parentheses.java" />
@@ -667,7 +406,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_350_Intersection_of_Two_Arrays_2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_349_Intersection_Two_Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_552_K_diff_Pairs_in_Array.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_905_Sort_Array_By_Parity.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_907_Sum_Subarray_Minimums.java" />
@@ -753,23 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_628_maximum_product_of_three_numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -793,25 +514,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_Construct_String_from_Binary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="152">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_552_K_diff_Pairs_in_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_68_Text_Justification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
           <folding>
-            <element signature="e#0#72#0" expanded="true" />
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_552_Student_atendance_Record_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BFS_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="-90">
+          <caret line="108" column="38" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#2075#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_66_Construct_String_from_Binary_Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_415_Add_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="555">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_459_Repeated_Substring_Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_443_String_Compression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

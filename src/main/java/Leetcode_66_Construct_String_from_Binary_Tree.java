@@ -36,7 +36,7 @@ except we can't omit the first parenthesis pair to break the one-to-one mapping 
 
  */
 
-
+import java.util.*;
 
 public class Leetcode_66_Construct_String_from_Binary_Tree {
 
@@ -51,13 +51,87 @@ public class Leetcode_66_Construct_String_from_Binary_Tree {
         }
     }
 
-    class Solution {
+    static class Solution {
         public String tree2str(TreeNode t) {
 
 
+            if(t==null){
+                return "";
+            }
+            Queue<TreeNode> queue = new LinkedList<>();
+            queue.add(t);
+            while(queue.size()>0){
+                TreeNode node = queue.remove();
+                System.out.println(node.val);
+                if(node.left!=null){
+                    queue.add(node.left);
+                }
+                if(node.right!=null){
+                    queue.add(node.right);
+                }
+            }
+
+            StringBuilder sb = new StringBuilder();
+            helper(t,sb);
+            System.out.println(sb.toString());
 
             return null;
         }
+
+        private void helper(TreeNode node, StringBuilder sb){
+
+            if(node == null){
+                //sb.append("()");
+                return;
+            }
+            String str = String.valueOf(node.val);
+            if(node.left!=null && node.right!=null){
+                sb.append(str);
+            }
+            else {
+                sb.append("("+str);
+                if( node.right==null || node.left==null){
+                    sb.append("()");
+                }
+
+            }
+
+
+
+            helper(node.left,sb);
+            if(node.right==null){
+                //sb.append("()");
+            }
+            helper(node.right,sb);
+            if( node.right==null){
+                sb.append(")");
+            }
+            //sb.append(")");
+        }
+
+
+    }
+
+    public static void main(String[] args){
+
+
+
+          TreeNode node = new TreeNode(1);
+          node.left = new TreeNode(2);
+          node.right = new TreeNode(3);
+          node.left.left = new TreeNode(4);
+
+
+/*
+          TreeNode node = new TreeNode(1);
+          node.left = new TreeNode(2);
+          node.left.right = new TreeNode(4);
+          node.right = new TreeNode(3);
+*/
+
+
+          new Solution().tree2str(node);
+
     }
 
 
