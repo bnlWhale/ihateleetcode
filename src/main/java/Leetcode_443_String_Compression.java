@@ -40,19 +40,53 @@ Nothing is replaced.
 
  */
 
+import java.util.Arrays;
+
 public class Leetcode_443_String_Compression {
 
-    static  class Solution {
+    static class Solution {
         public int compress(char[] chars) {
 
+            int j = 1;
+            int count = 1;
+            for (int i = 1; i < chars.length; i++) {
 
-            return -1;
+                if (chars[i - 1] != chars[i]) {
+                    if(count>1){
+
+                        for(char c : Integer.toString(count).toCharArray()){
+                            chars[j] = c;
+                            j++;
+                        }
+                        chars[j] = chars[i];
+                        j++;
+                        count = 1;
+                    }else{
+                        chars[j] = chars[i];
+                        j++;
+                    }
+                } else {
+                    count++;
+                }
+
+                if(i==chars.length-1 && count>1){
+                    for(char c : Integer.toString(count).toCharArray()){
+                        chars[j] = c;
+                        j++;
+                    }
+                }
+            }
+
+
+            System.out.println(Arrays.toString(chars)+"  "+j);
+            return j;
         }
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        char[] chars = {'a','a','b','b','c','c','c'};
+        char[] chars = {'a', 'a', 'b', 'b', 'c', 'c', 'c'};
+        //char[] chars = {'a','b','b','b','b','b','b','b','b','b','b','b','b','b'};
         new Solution().compress(chars);
     }
 }
