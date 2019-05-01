@@ -282,6 +282,15 @@ public class StreamPractice {
         });
 
 
+        List<Integer> list_1 = Arrays.asList(5, 11,17,123);
+        List<Integer> list_2 = Arrays.asList(124,14,80);
+        OptionalInt min = list_1.stream()
+                .flatMap(nn -> list_2.stream()
+                        .map(r -> nn-r > 0? nn-r: r-nn))
+                .mapToInt(t -> t).min();
+        System.out.println(min.getAsInt());
+
+
 
     }
 

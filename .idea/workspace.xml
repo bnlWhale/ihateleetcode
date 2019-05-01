@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67cde578-e92e-4f03-bb63-d0cd25bad5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_151_Reverse_words_in_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_541_Reverse_string_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_58_Length_last_word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_12_Integer_to_Roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_539_Minimum_Time_Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_6_Zigzag_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode_842_Split_Array_Fibonacci_Sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StreamPractice$1Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StreamPractice$1Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StreamPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StreamPractice.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_541_Reverse_string_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -55,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StreamPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1001">
-              <caret line="253" column="71" selection-start-line="253" selection-start-column="71" selection-end-line="253" selection-end-column="71" />
+            <state relative-caret-position="4454">
+              <caret line="292" selection-start-line="292" selection-end-line="292" />
               <folding>
                 <element signature="e#3070#3071#0" expanded="true" />
                 <element signature="e#3114#3115#0" expanded="true" />
@@ -71,11 +74,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            <state relative-caret-position="663">
+              <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_539_Minimum_Time_Difference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_6_Zigzag_Conversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_842_Split_Array_Fibonacci_Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -106,11 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_653_Two_Sum_Input_BST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_374_Guess_Number_Higher_or_Lower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_783_Minimum_Distance_Between_BST_Nodes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode_104_Max_Depth_Binary_Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_108_Convert_Sorted_Array.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_442_Find_All_Duplicates_in_Array.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_581_Shortest_Unsorted_Continuous_Subarray.java" />
@@ -156,7 +187,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_151_Reverse_words_in_String.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_58_Length_last_word.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leetcode_541_Reverse_string_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_12_Integer_to_Roman.java" />
         <option value="$PROJECT_DIR$/src/main/java/StreamPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_539_Minimum_Time_Difference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_6_Zigzag_Conversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Leetcode_842_Split_Array_Fibonacci_Sequence.java" />
       </list>
     </option>
   </component>
@@ -174,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -239,16 +275,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode_541_Reverse_string_2">
+  <component name="RunManager" selected="Application.Leetcode_6_Zigzag_Conversion">
     <configuration name="Leetcode_151_Reverse_words_in_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode_151_Reverse_words_in_String" />
-      <module name="ihateleetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode_434_Number_Segements_in_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_434_Number_Segements_in_String" />
       <module name="ihateleetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,8 +297,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_925_Long_Pressed_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_925_Long_Pressed_Name" />
+    <configuration name="Leetcode_6_Zigzag_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_6_Zigzag_Conversion" />
+      <module name="ihateleetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_71_Simplify_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_71_Simplify_Path" />
       <module name="ihateleetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode_6_Zigzag_Conversion" />
+        <item itemvalue="Application.Leetcode_71_Simplify_Path" />
         <item itemvalue="Application.Leetcode_541_Reverse_string_2" />
         <item itemvalue="Application.Leetcode_58_Length_last_word" />
         <item itemvalue="Application.Leetcode_151_Reverse_words_in_String" />
-        <item itemvalue="Application.Leetcode_434_Number_Segements_in_String" />
-        <item itemvalue="Application.Leetcode_925_Long_Pressed_Name" />
       </list>
     </recent_temporary>
   </component>
@@ -334,12 +370,13 @@
       <workItem from="1555119848925" duration="4022000" />
       <workItem from="1555141386821" duration="6696000" />
       <workItem from="1555182217112" duration="63803000" />
-      <workItem from="1555621144847" duration="166000" />
+      <workItem from="1555621144847" duration="27798000" />
+      <workItem from="1556301639211" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="544243000" />
+    <option name="totallyTimeSpent" value="573012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,7 +391,7 @@
     <frame x="248" y="71" width="2224" height="1275" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19156738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19340055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,11 +438,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_442_Find_All_Duplicates_in_Array.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_669_Degree_of_Array.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_997_Squares_of_a_Sorted_Array.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_457_Circular_Array_Loop.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_525_Contiguous_Array.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_167_Two_Sum_II_Input_array_is_sorted.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_350_Intersection_of_Two_Arrays_2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_349_Intersection_Two_Arrays.java" />
@@ -629,6 +661,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="249" column="7" lean-forward="true" selection-start-line="249" selection-start-column="7" selection-end-line="249" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_12_Integer_to_Roman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="55" column="64" lean-forward="true" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BFS_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1717">
@@ -645,15 +694,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_541_Reverse_string_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StreamPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1001">
-          <caret line="253" column="71" selection-start-line="253" selection-start-column="71" selection-end-line="253" selection-end-column="71" />
+        <state relative-caret-position="4454">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
           <folding>
             <element signature="e#3070#3071#0" expanded="true" />
             <element signature="e#3114#3115#0" expanded="true" />
@@ -669,8 +718,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_71_Simplify_Path.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        <state relative-caret-position="663">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_539_Minimum_Time_Difference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_6_Zigzag_Conversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode_842_Split_Array_Fibonacci_Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
         </state>
       </provider>
     </entry>

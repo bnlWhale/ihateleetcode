@@ -41,6 +41,101 @@ Output: "/c"
  */
 
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Stack;
 
 public class Leetcode_71_Simplify_Path {
+
+
+    class Solution_1 {
+        public String simplifyPath(String path) {
+            Stack<String> s = new Stack<>();
+            String[] p = path.split("/");
+            for (String t : p) {
+                if (!s.isEmpty() && t.equals("..")) {
+                    s.pop();
+                } else if (!t.equals(".") && !t.equals("") && !t.equals("..")) {
+                    s.push(t);
+                }
+            }
+            List<String> list = new ArrayList(s);
+            return "/" + String.join("/", list);
+        }
+    }
+
+    static  class Solution {
+        public String simplifyPath(String path) {
+
+            StringBuilder sb = new StringBuilder();
+            char[] chars = path.toCharArray();
+            int i=0;
+            int length=path.length();
+            while(i<length){
+                char c=chars[i];
+                if(c=='/'){
+                    int j=i+1;
+                    int total=0;
+                    while(j<length){
+                        char other = chars[j];
+                        if(other=='.'){
+                            total++;
+                        }
+                        if(other == '/'){
+                            break;
+                        }
+                        j++;
+                    }
+                    if(total > 0){
+                        if(total==2){
+                            if(sb.length()>0){
+                                sb.deleteCharAt(sb.length()-1);
+                            }
+                            i=j;
+                        }else if(total==1){
+                                i=j;
+                                continue;
+                        }else{
+                            while(i<j){
+                                sb.append(chars[i]);
+                                i++;
+                            }
+                        }
+                    }else{
+                        if(i==length-1){
+                            i++;
+                            continue;
+                        }
+                        while(i<j){
+                            sb.append(chars[i]);
+                            i++;
+                        }
+                    }
+                }
+
+
+            }
+            if(sb.length()==0){
+                sb.append('/');
+            }
+            System.out.println(sb.toString());
+            return null;
+        }
+    }
+
+    public static void main(String[] arg){
+
+        //String path = "/home/";
+        String path = "/a/./b/../c/"; //   "/a/c"
+        //String path = "/a/./b/c/";
+        //String path = "/a/./b/../../c/"; //   "/c"
+        //String path = "/../";
+        //String path = "/.";
+        //String path = "/...";     //"/..."
+        new Solution().simplifyPath(path);
+
+
+
+    }
+
 }
