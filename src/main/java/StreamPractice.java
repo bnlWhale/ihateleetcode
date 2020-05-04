@@ -240,8 +240,10 @@ public class StreamPractice {
         Arrays.stream(array_2).reduce((x, y) -> x +"," + y).ifPresent(s -> System.out.println("Array to String: "+ s));
 
 
+        // Stream 求平均值
         int vals[] = { 2, 4, 6, 8, 10, 12, 14, 16 };
         int sum_0 = Arrays.stream(vals).sum();
+        Arrays.stream(vals).average();
 
         long n = Arrays.stream(vals).count();//8
 

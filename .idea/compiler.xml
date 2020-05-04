@@ -10,5 +10,6 @@
         <module name="ihateleetcode" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
