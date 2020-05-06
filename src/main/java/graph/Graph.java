@@ -68,12 +68,47 @@ class Graph {
         addEdge(adj, 3, 4);
 
         printGraph(adj);
-
-
         dfsIterator(adj);
+
+        int[] arr = {0,1,2,3,4,5};
+       // traversalArr(arr, 0);
+
+        int[][] arr2 = {
+                {11,12,13,14},
+                {21,22,23,24},
+                {31,32,33,34},
+                {41,42,43,44}
+
+                        };
+        traversalArr2(arr2, 0, 0);
     }
 
-    private void dfsGraphList(List<List<Integer>> list){
+    private static void traversalArr(int[] arr, int index){
+
+        if(index > arr.length-1){
+            return;
+        }
+        System.out.println("traversalArr:"+arr[index]);
+        traversalArr(arr, ++index);
+    }
+
+    private static void traversalArr2(int[][] arr, int i, int j){
+
+        if(i>arr.length-1){
+            return;
+        }
+        if(j>arr[0].length-1){
+            return;
+        }
+        System.out.println("traversalArr2 "+arr[i][j]);
+        traversalArr2(arr, i+1, j);
+        traversalArr2(arr, i, j+1);
+
+    }
+
+
+
+    private void dfsGraphList(ArrayList<ArrayList<Integer> > list){
         if(list == null){
             return;
         }
@@ -107,8 +142,46 @@ class Graph {
             }
 
         }
+    }
 
+    // dijkstra algorithm
+    private static void doDijstra(){
+
+        int V = 5;
+        int source = 0;
+
+        // Adjacency list representation of the
+        // connected edges
+        List<List<Node> > adj = new ArrayList<List<Node> >();
+
+        // Initialize list for every node
+        for (int i = 0; i < V; i++) {
+            List<Node> item = new ArrayList<Node>();
+            adj.add(item);
+        }
+
+        // Inputs for the DPQ graph
+        adj.get(0).add(new Node(1, 9));
+        adj.get(0).add(new Node(2, 6));
+        adj.get(0).add(new Node(3, 5));
+        adj.get(0).add(new Node(4, 3));
+
+        adj.get(2).add(new Node(1, 2));
+        adj.get(2).add(new Node(3, 4));
+
+        // Calculate the single source shortest path
+        DPQ dpq = new DPQ(V);
+        dpq.dijkstra(adj, source);
+
+        // Print the shortest path to all the nodes
+        // from the source node
+        System.out.println("The shorted path from node :");
+        for (int i = 0; i < dpq.dist.length; i++)
+            System.out.println(source + " to " + i + " is "
+                    + dpq.dist[i]);
 
     }
+
+
 
 }
